@@ -90,7 +90,7 @@ body {
   letter-spacing: 0.04em;
   color: var(--white);
   background-color: var(--iris);
-  /* border-radius: 4px; */
+
   cursor: pointer;
   border: none;
 }
@@ -185,7 +185,6 @@ body {
 }
 .footer {
   background-color: var(--navy-blue);
-  /* padding: 40px 0;*/
 }
 
 .footer-logo-web {
