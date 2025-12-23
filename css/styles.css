@@ -19,7 +19,6 @@ ul {
 body {
   font-family: "Roboto", sans-serif;
   color: var(--slate);
-  font-weight: regular;
   font-size: 16px;
   /* line-height: 1.5; */
   background-color: var(--white);
