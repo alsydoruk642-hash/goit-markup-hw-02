@@ -33,6 +33,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris);
+  text-decoration: none;
 }
 .header-nav-logo-studio {
   font-family: Raleway, sans-serif;
@@ -42,6 +43,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--navy-blue);
+  text-decoration: none;
 }
 .header-nav-link {
   font-family: var(--font-family);
@@ -200,6 +202,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris);
+  text-decoration: none;
 }
 .footer-logo-studio {
   font-family: Raleway, sans-serif;
@@ -209,6 +212,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  text-decoration: none;
 }
 .footer-text {
   font-family: var(--font-family);
