@@ -12,6 +12,9 @@
   --white: #fff;
   --dairy: #fcfcfc;
 }
+ul {
+  list-style: none;
+}
 
 body {
   font-family: "Roboto", sans-serif;
