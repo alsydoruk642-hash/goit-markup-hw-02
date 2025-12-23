@@ -28,7 +28,7 @@ body {
 }
 /* Header Navigation Styles   */
 .header-nav-logo-web {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -38,7 +38,7 @@ body {
   text-decoration: none;
 }
 .header-nav-logo-studio {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -92,7 +92,7 @@ body {
   color: var(--white);
 }
 .button-hero {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
@@ -109,7 +109,7 @@ body {
 }
 /*section feature */
 .feature-title-name {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -118,7 +118,7 @@ body {
 }
 
 .feature-text {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -131,7 +131,7 @@ body {
 }
 
 .team-cards-title {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 36px;
   line-height: 111%;
@@ -141,7 +141,7 @@ body {
   text-transform: capitalize;
 }
 .team-cards-name {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -151,7 +151,7 @@ body {
   text-transform: capitalize;
 }
 .team-cards-content {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -165,7 +165,7 @@ body {
 
 /*section projects */
 .section-projects-title {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 36px;
   line-height: 111%;
@@ -175,7 +175,7 @@ body {
   text-transform: capitalize;
 }
 .projects-name {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -185,7 +185,7 @@ body {
   text-transform: capitalize;
 }
 .projects-text {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -198,7 +198,7 @@ body {
 }
 
 .footer-logo-web {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -208,7 +208,7 @@ body {
   text-decoration: none;
 }
 .footer-logo-studio {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
